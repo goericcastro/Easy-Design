@@ -1,6 +1,0 @@
-G:\My Drive\DISCO 4_PROJECTS\REVIT API\Easy-Design\Easy-Design\Easy-Design\bin\Debug\Easy-Design.dll
-G:\My Drive\DISCO 4_PROJECTS\REVIT API\Easy-Design\Easy-Design\Easy-Design\bin\Debug\Easy-Design.pdb
-G:\My Drive\DISCO 4_PROJECTS\REVIT API\Easy-Design\Easy-Design\Easy-Design\obj\Debug\Easy-Design.csproj.AssemblyReference.cache
-G:\My Drive\DISCO 4_PROJECTS\REVIT API\Easy-Design\Easy-Design\Easy-Design\obj\Debug\Easy-Design.csproj.CoreCompileInputs.cache
-G:\My Drive\DISCO 4_PROJECTS\REVIT API\Easy-Design\Easy-Design\Easy-Design\obj\Debug\Easy-Design.dll
-G:\My Drive\DISCO 4_PROJECTS\REVIT API\Easy-Design\Easy-Design\Easy-Design\obj\Debug\Easy-Design.pdb
